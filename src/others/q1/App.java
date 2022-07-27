@@ -1,4 +1,4 @@
-package q1;
+package others.q1;
 
 import java.util.ArrayList;
 import java.util.List;

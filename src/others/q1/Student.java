@@ -1,5 +1,4 @@
-package q1;
-import java.util.*;
+package others.q1;
 
 public class Student {
     String name;
