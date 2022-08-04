@@ -3,7 +3,7 @@
 
 package CodeUp_100basic_questions;
 
-public class q3 {
+public class q003 {
     public static void main(String args[]) {
         System.out.println("Hello\nWorld");
     }
