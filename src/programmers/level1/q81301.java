@@ -2,7 +2,7 @@ package programmers.level1;
 
 public class q81301 {
     public static void main(String[] args) {
-        Solution solution = new Solution();
+        Solution81301 solution = new Solution81301();
 //        String s = "23four5six7";
         String s = "2three45sixseven";
         int result = solution.solution(s);
@@ -11,7 +11,7 @@ public class q81301 {
 
 }
 
-class Solution {
+class Solution81301 {
     public int solution(String s) {
         char[] arr = s.toCharArray();
         StringBuilder sb = new StringBuilder();
